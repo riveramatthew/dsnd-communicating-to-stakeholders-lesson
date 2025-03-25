@@ -26,9 +26,16 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+This repository contains the following key files: 
+  - **Notebooks:**  
+  - **1_Project_Overview.ipynb**: Provides an introduction to the project, business understanding, and key questions addressed.  
+  - **2_Data_Exploration.ipynb**: Explores dataset characteristics, visualizes distributions, and checks for data quality issues.  
+  - **3_Modeling_and_Evaluation.ipynb**: Implements machine learning models, compares performance, and interprets results.  
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+- **Python Script:**  
+  - **final_model.py**: Contains the production-ready code for training and saving the optimal salary prediction model.  
+
+Each notebook includes markdown explanations detailing the analytical approach and findings.
 
 ## Results<a name="results"></a>
 
